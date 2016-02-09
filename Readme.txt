@@ -1,4 +1,4 @@
-Employee
+Manager
 Mgr. drilling = Tegar | Haidar
 Mgr. Refinery = Sani
 Mgr. General Affairs = Adi
@@ -29,7 +29,7 @@ Pada Level Supervisor mendapatkan:
 Tunjangan Penginapan
 Tunjangan Internet
 
-Pada Level Employee mendapatkan:
+Pada Level Manager mendapatkan:
 <Apa saja yang ada di Staff>
 <Apa saja yang ada di Supervisor>
 Tunjangan Hari raya
